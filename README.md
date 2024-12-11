@@ -1,3 +1,7 @@
+**Enhanced Mini Operating System (MiniOS)**
+
+
+
 1. Introduction
   The Enhanced Mini Operating System (MiniOS) aims to simulate a lightweight operating
   system with essential features for process management, file handling, scheduling, and
